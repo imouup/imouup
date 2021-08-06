@@ -4,7 +4,7 @@
 
 <p> <h3>📫 How to reach me: <h3/>
  <a href="https://space.bilibili.com/438518095">
-    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picbilibili-line.png" alt="Mouup's bilibili personal page" height="20" width="20">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picbilibili-line.png" alt="Mouup's bilibili personal page" height="30" width="30">
   </a> 
 
  <p/>
