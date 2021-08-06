@@ -4,7 +4,7 @@
  <img align="right" src="https://cdn.jsdelivr.net/gh/imouup/pico/picddc55333c417d47852378bbbef450994677082a8.jpg@768w_749h_progressive.png" alt="nya" height="300" width="258">
 
 <a href="https://mouup.top">
-    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="50" width="110">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="60" width="130">
   </a> 
  
 <p> <h3>📫 How to reach me: <h3/>
