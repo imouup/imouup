@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there (Nya~)👋
 
 ![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg) [![my GitHub](https://github-readme-stats.vercel.app/api?username=imouup)]()
 <!--
