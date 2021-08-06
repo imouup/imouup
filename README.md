@@ -15,6 +15,9 @@
   <a href="http://wpa.qq.com/msgrd?v=3&uin=3108702632&site=qq&menu=yes">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picQQ.png" alt="Find me in twitter" height="30" width="30">
   </a> 
+  <a href="https://www.youtube.com/channel/UCuU3zh8p019t3ZTYUZApvUA">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picyoutube.png" alt="Mouup's YouTube Channel" height="30" width="30">
+  </a>
 
  <p/>
 
