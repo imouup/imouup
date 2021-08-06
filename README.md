@@ -1,7 +1,6 @@
 ### Hi there (Nya~)👋
  
- <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya"><p/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
- <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/picddc55333c417d47852378bbbef450994677082a8.jpg@768w_749h_progressive.png" alt="shizuku"><p/>
+ <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 
 <a href="https://mouup.top">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="50" width="110">
@@ -30,6 +29,9 @@
   <h5> I'm a senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.<br/>I'm glad to make friend with you.<h5/>
  <p/>
 
+  <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/picddc55333c417d47852378bbbef450994677082a8.jpg@768w_749h_progressive.png" alt="shizuku"><p/>
+  
+   
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=imouup&theme=radical))]()<br/>
