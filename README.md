@@ -29,7 +29,7 @@
   <h5> I'm a senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.<br/>I'm glad to make friend with you.<h5/>
  <p/>
 
-  <p><img align="right" src="https://cdn.jsdelivr.net/gh/imouup/pico/picddc55333c417d47852378bbbef450994677082a8.jpg@768w_749h_progressive.png" alt="shizuku" height="300" width="258"><p/>
+  <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/picddc55333c417d47852378bbbef450994677082a8.jpg@768w_749h_progressive.png" alt="shizuku" height="300" width="258"><p/>
   
    
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
