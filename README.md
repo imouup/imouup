@@ -8,6 +8,9 @@
   </a> 
  
 <p> <h3>📫 How to reach me: <h3/>
+ <a href="https://mouup.top">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pichead2021-7-29.jpg" alt="Mouup's blog" height="30" width="30">
+  </a> 
  <a href="https://space.bilibili.com/438518095">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picbilibili-line.png" alt="Mouup's bilibili personal page" height="30" width="30">
   </a> 
