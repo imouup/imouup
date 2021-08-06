@@ -20,6 +20,9 @@
   </a>
 
  <p/>
+ <p>
+  <h3>About me<h3/>
+   I'm a senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.<br/>I'm glad to make friend with you.
 
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
