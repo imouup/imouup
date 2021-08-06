@@ -2,6 +2,10 @@
  
  <img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 
+<h3>Come to see my blog<h3/> 
+  <a href="https://mouup.top">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="30" width="70">
+  </a> 
 <p> <h3>📫 How to reach me: <h3/>
  <a href="https://space.bilibili.com/438518095">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picbilibili-line.png" alt="Mouup's bilibili personal page" height="30" width="30">
