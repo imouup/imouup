@@ -6,6 +6,9 @@
  <a href="https://space.bilibili.com/438518095">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picbilibili-line.png" alt="Mouup's bilibili personal page" height="30" width="30">
   </a> 
+ <a href="https://twitter.com/iamMouup">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic%E6%8E%A8%E7%89%B9.png" alt="Find me in twitter" height="30" width="30">
+  </a> 
 
  <p/>
 
