@@ -1,6 +1,6 @@
 ### Hi there (Nya~)👋
  
- <img align="centre" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
+ <img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 
 <a href="https://mouup.top">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="50" width="110">
