@@ -1,6 +1,7 @@
 ### Hi there (Nya~)👋
 
-![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg)   <br/>
+![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg)  - 📫 How to reach me:
+<br/>
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=imouup&theme=radical))]()<br/>
