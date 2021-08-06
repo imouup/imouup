@@ -4,7 +4,7 @@
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=imouup)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
