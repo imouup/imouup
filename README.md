@@ -1,6 +1,6 @@
 ### Hi there (Nya~)👋
  
- <img align="right" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
+ <img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 
 <p>
  <a href="https://space.bilibili.com/438518095">
