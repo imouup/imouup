@@ -9,6 +9,9 @@
  <a href="https://twitter.com/iamMouup">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic%E6%8E%A8%E7%89%B9.png" alt="Find me in twitter" height="30" width="30">
   </a> 
+ <a href="https://www.zhihu.com/people/gui-ling-zhe-92">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic%E7%9F%A5%E4%B9%8E.png" alt="Find me in twitter" height="30" width="30">
+  </a> 
 
  <p/>
 
