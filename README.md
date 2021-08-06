@@ -1,6 +1,6 @@
 ### Hi there (Nya~)👋
 
-![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg)
+![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg) <br/>
 [![my GitHub](https://github-readme-stats.vercel.app/api?username=imouup)]()
 <!--
 **imouup/imouup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
