@@ -3,7 +3,7 @@
  <img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 
 <a href="https://mouup.top">
-    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="30" width="70">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="50" width="110">
   </a> 
  
 <p> <h3>📫 How to reach me: <h3/>
