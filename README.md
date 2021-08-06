@@ -1,7 +1,7 @@
 ### Hi there (Nya~)👋
  
 <p align="left">
- ![nya](https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg) 
+ <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya">
 <p/>
  
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
