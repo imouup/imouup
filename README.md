@@ -12,6 +12,9 @@
  <a href="https://www.zhihu.com/people/gui-ling-zhe-92">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic%E7%9F%A5%E4%B9%8E.png" alt="Find me in twitter" height="30" width="30">
   </a> 
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=3108702632&site=qq&menu=yes">
+    <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picQQ.png" alt="Find me in twitter" height="30" width="30">
+  </a> 
 
  <p/>
 
