@@ -28,12 +28,14 @@
   </a>
 
  <p/>
+ 
+ <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya" height="150" width="125"><p/>
  <p>
   <h3>About me <h3/>
   <h5> I'm a senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.<br/>I'm glad to make friend with you.<h5/>
  <p/>
 
-  <p><img align="right" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya" height="150" width="125"><p/>
+  
   
    
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
