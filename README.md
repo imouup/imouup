@@ -39,7 +39,7 @@
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup&theme=dracula&layout=compact&bg_color=#f3c4d4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup&theme=dracula&layout=compact&bg_color=a09cec,f3c4d4)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <!--
