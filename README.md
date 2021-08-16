@@ -8,7 +8,7 @@
 
 
 [<img height="26" src="https://shields.io/badge/bilibili-ffffff.svg?style=flat-square&logo=bilibili" alt="bilibili" />](https://space.bilibili.com/438518095)
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/iaMouup) 
+[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/iamMouup) 
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/gui-ling-zhe-92)
 [<img height="26" src="https://shields.io/badge/Mastodon-ffffff.svg?style=flat-square&logo=mastodon" alt="Mastodon" />](https://mimoe.mouup.top/@mouup)
 
