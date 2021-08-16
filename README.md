@@ -1,11 +1,13 @@
 ### Hi there (Nya~)👋
  
  
-<img alt="GitHub stats" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=imouup&bg_color=30,f48193,c5ddf3&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
+
 
 <a href="https://mouup.top">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picMouup.png" alt="Mouup's blog" height="60" width="130">
-  </a> 
+  </a>
+  
+<img alt="GitHub stats" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=imouup&bg_color=30,f48193,c5ddf3&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
  
 <p> <h3>📫 How to reach me: <h3/>
  <a href="https://mouup.top">
@@ -29,11 +31,15 @@
 
  <p/>
  
+ 
+ 
  <p><img align="left" src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20210803_141307396_iOS.jpg" alt="nya" height="150" width="125"><p/>
  <p>
   <h3>About me <h3/>
   <h5> I'm a senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.<br/>I'm glad to make friend with you.<h5/>
  <p/>
+   
+- ⚡ Fun fact:I love ACGN very much.
 
   
   
@@ -41,7 +47,7 @@
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
 ![sumy7](https://visitor-badge.glitch.me/badge?page_id=imouup.profile) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup&layout=compact&bg_color=20,eebbcc,ccdaef&title_color=fff&text_color=fff&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-navy-nu.vercel.app/api/top-langs/?username=imouup&layout=compact&bg_color=20,eebbcc,ccdaef&title_color=fff&text_color=fff&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <!--
