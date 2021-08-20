@@ -28,8 +28,8 @@
 ![github followers](https://img.shields.io/github/followers/imouup?style=social)
 ![stars](https://img.shields.io/github/stars/imouup?style=social)
 ![sumy7](https://komarev.com/ghpvc/?username=imouup)
-
 </br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imouup&layout=compact&bg_color=20,eebbcc,ccdaef&title_color=fff&text_color=fff&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://mouup.top">
