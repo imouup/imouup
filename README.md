@@ -8,9 +8,8 @@
 
 
 [<img height="26" src="https://shields.io/badge/bilibili-ffffff.svg?style=flat-square&logo=bilibili" alt="bilibili" />](https://space.bilibili.com/438518095)
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/iamMouup) 
-[<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/gui-ling-zhe-92)
-[<img height="26" src="https://shields.io/badge/Mastodon-ffffff.svg?style=flat-square&logo=mastodon" alt="Mastodon" />](https://mimoe.mouup.top/@mouup)
+[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/iznyaku) 
+
 
 
 <p/>
@@ -22,7 +21,7 @@
   <h3> About me <a href="https://mouup.top">
     <img src="https://cdn.jsdelivr.net/gh/imouup/pico/picavatar.png" alt="My blog" height="20" width="20">
   </a><h3/>
-  <h4> I'm a 🎓senior middle school student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.</br>I'm glad to make friend with you.</h4>
+  <h4> I'm a college student from China.<br/>I love ACGN and the IT.<br/>I'm working hard to improve myself.</br>I'm glad to make friend with you.</h4>
  <p/>
 
 ![github followers](https://img.shields.io/github/followers/imouup?style=social)
@@ -36,11 +35,11 @@
   
 <p><h4>- ⚡ Fun fact: I love ACGN very much. You can see many pictures of animation or comic <a href="https://pic.mouup.top">here</a> </h4></p>
 <p><h4>- :rainbow: Here are the websites I built
-         <a href="https://mouup.top"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picavatar.png" alt="Mouup's blog" height="25" width="25"></a> 
+         <a href="https://nyaku.moe"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picavatar.png" alt="Mouup's blog" height="25" width="25"></a> 
     <!--     <a href="https://pic.mouup.top"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/pic20201107_104156023_iOS%20(Small)%20(2).jpg" alt="picmoeup" height="25" width="25"></a> -->
-        <a href="https://mimoe.mouup.top"><img src="https://cdn.jsdelivr.net/gh/imouup/pico/picmastodon1.png" alt="picmoeup" height="25" width="25"></a></h4></p>
+       </h4></p>
 <p><h4>- 🌱 I’m currently learning Html and CSS </h4></p>
-<p><h4>- :tada:My hobby: Playing Games(Battlefield V & Genshin &...)  and  Listen to <a href="https://music.163.com/#/user/home?id=3262589762">music</a></h4></p>
+<p><h4>- :tada:My hobby: Playing Game and  Listen to <a href="https://music.163.com/#/user/home?id=3262589762">music</a></h4></p>
 
   
 <!--
