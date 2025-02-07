@@ -7,8 +7,8 @@
 ### 📫 How to reach me: <h3/>
 
 
-[<img height="26" src="https://shields.io/badge/bilibili-ffffff.svg?style=flat-square&logo=bilibili" alt="bilibili" />](https://space.bilibili.com/438518095)
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/iznyaku) 
+[<img height="26" src="https://i0.hdslb.com/bfs/static/jinkela/long/images/favicon.ico" alt="bilibili" />](https://space.bilibili.com/438518095)
+[<img height="26" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="Twitter" />](https://twitter.com/iznyaku) 
 
 
 
